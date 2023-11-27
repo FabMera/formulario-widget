@@ -1,26 +1,49 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h2 class="text-center m-2 p-3">Formulario de Desarrollador</h2>
+    <Formulario
+        @formulario-enviado="procesarForm"
+        :postulante="postulante"
+      
+    />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import Formulario from "./components/Formulario.vue";
+import { v4 as id } from "uuid";
+import { mapActions } from "vuex";
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
-</script>
+    name: "App",
+    data() {
+        return {
+            postulante: {
+                id: "",
+                nombre: "",
+                apellido: "",
+                email: "",
+                profesion: "",
+                experiencia: 0,
+                especialidades: [],
+                tecnologias: [],
+                modalidad: "",
+            },
+        };
+    },
+    components: {
+        Formulario,
+    },
+    methods: {
+        ...mapActions(["cargarPostulantes", "resetFormulario"]),
+        procesarForm() {
+            this.postulante.id = id();
+            this.cargarPostulantes(this.postulante);
+            this.resetFormulario();
+        },
 
+    },
+};
+</script>
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+body {
+    background-color: #e0e7e4;
 }
 </style>

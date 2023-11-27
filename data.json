@@ -1,0 +1,306 @@
+{
+  "postulantes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "email": "jperez@gmail.com",
+      "profesion": "Programador",
+      "experiencia": 2,
+      "especialidades": [
+        "Front End",
+        "Back End"
+      ],
+      "tecnologias": [
+        "Java",
+        "React JS"
+      ],
+      "modalidad": "Tiempos Completo"
+    },
+    {
+      "id": 2,
+      "nombre": "Fabian ",
+      "apellido": "Mera",
+      "email": "fmera@google",
+      "profesion": "Programador",
+      "experiencia": 1,
+      "especialidades": [
+        "Front End"
+      ],
+      "tecnologias": [
+        "Javascript",
+        "Vue JS"
+      ],
+      "modalidad": "Tiempos Completo"
+    },
+    {
+      "id": 3,
+      "nombre": "Javiera",
+      "apellido": "Soto",
+      "email": "jsoto@correo.com",
+      "profesion": "Ingeniero de Software",
+      "experiencia": 5,
+      "especialidades": [
+        "Front End",
+        "Back End"
+      ],
+      "tecnologias": [
+        "Java",
+        "React JS",
+        "Javascript",
+        "Vue JS"
+      ],
+      "modalidad": "FreeLance"
+    },
+    {
+      "id": 4,
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "email": "jperez@gmail.com",
+      "profesion": "Programador",
+      "experiencia": 2,
+      "especialidades": [
+        "Front End",
+        "Back End"
+      ],
+      "tecnologias": [
+        "Java",
+        "React JS",
+        "Javascript",
+        "Vue JS"
+      ],
+      "modalidad": "Tiempos Completo"
+    },
+    {
+      "id": "cc6339db-4b7b-4580-8c1d-582b3642e677",
+      "nombre": "sdsasASas",
+      "apellido": "saSAsAS",
+      "email": "jdoe@correo.com",
+      "profesion": "SASASAS",
+      "experiencia": 3,
+      "especialidades": [
+        "on"
+      ],
+      "tecnologias": [
+        "on"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "a2e28e88-e4b0-40f5-8789-cace826df007",
+      "nombre": "AGUSTIN",
+      "apellido": "MERA",
+      "email": "agustin@correo.com",
+      "profesion": "ingeniero de software",
+      "experiencia": 4,
+      "especialidades": [
+        "frontend"
+      ],
+      "tecnologias": [
+        "java",
+        "javascript",
+        "vue js"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "2a16b6f2-bcd3-49f4-9479-51b16d050689",
+      "nombre": "",
+      "apellido": "",
+      "email": "",
+      "profesion": "",
+      "experiencia": 0,
+      "especialidades": [],
+      "tecnologias": [],
+      "modalidad": ""
+    },
+    {
+      "id": "83c5799b-ce48-4d34-80c7-a552ac188fb0",
+      "nombre": "",
+      "apellido": "",
+      "email": "",
+      "profesion": "",
+      "experiencia": 0,
+      "especialidades": [],
+      "tecnologias": [],
+      "modalidad": ""
+    },
+    {
+      "id": "daf84ea1-bb80-4300-9515-fd4a11567d08",
+      "nombre": "",
+      "apellido": "",
+      "email": "",
+      "profesion": "",
+      "experiencia": 0,
+      "especialidades": [],
+      "tecnologias": [],
+      "modalidad": ""
+    },
+    {
+      "id": "d01bc8d6-f792-41f1-b174-a92ec54e03c8",
+      "nombre": "lucas bastian",
+      "apellido": "doe",
+      "email": "jdoe@correo.com",
+      "profesion": "SASASAS",
+      "experiencia": 2,
+      "especialidades": [
+        "frontend"
+      ],
+      "tecnologias": [
+        "java"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "17c96de6-42e5-44d8-8cfa-870d489e2c13",
+      "nombre": "CACHUPIN",
+      "apellido": "mera saldivar",
+      "email": "emkrausse@hotmail.com",
+      "profesion": "ingeniero",
+      "experiencia": 2,
+      "especialidades": [
+        "frontend"
+      ],
+      "tecnologias": [
+        "java"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "8a83bf22-83a5-4f3b-9d93-8a829ed78013",
+      "nombre": "john",
+      "apellido": "doe",
+      "email": "emkrausse@hotmail.com",
+      "profesion": "SASASAS",
+      "experiencia": 33,
+      "especialidades": [
+        "frontend"
+      ],
+      "tecnologias": [
+        "java"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "0033fb21-3018-442a-a5be-fa8cbdd4a957",
+      "nombre": "dfsadsadasd",
+      "apellido": "dsadasdasd",
+      "email": "cachu@correo.com",
+      "profesion": "asdadasds",
+      "experiencia": 2,
+      "especialidades": [
+        "frontend"
+      ],
+      "tecnologias": [
+        "java",
+        "react js",
+        "vue js"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "eff20ccc-a4b6-4419-be45-cbbde69a78b9",
+      "nombre": "CACHUPIN",
+      "apellido": "mera saldivar",
+      "email": "rjacqueromero@gmail.com",
+      "profesion": "dsdsds",
+      "experiencia": 44,
+      "especialidades": [
+        "frontend",
+        "backend"
+      ],
+      "tecnologias": [
+        "java",
+        "javascript"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "789f1e5e-119e-48b1-88de-fb09b710a5e3",
+      "nombre": "CACHUPIN",
+      "apellido": "mera saldivar",
+      "email": "rjacqueromero@gmail.com",
+      "profesion": "dsdsds",
+      "experiencia": 44,
+      "especialidades": [
+        "frontend",
+        "backend"
+      ],
+      "tecnologias": [
+        "java",
+        "javascript"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "f009a316-2b05-4167-82a4-bc5fe547c575",
+      "nombre": "john",
+      "apellido": "fdfdf",
+      "email": "fabianmeraromero@gmail.com",
+      "profesion": "dsdsdsdsd",
+      "experiencia": 3,
+      "especialidades": [],
+      "tecnologias": [],
+      "modalidad": ""
+    },
+    {
+      "id": "72d1c8c8-da86-49f6-86d5-114d399f782d",
+      "nombre": "john",
+      "apellido": "fdfdf",
+      "email": "fabianmeraromero@gmail.com",
+      "profesion": "dsdsdsdsd",
+      "experiencia": 3,
+      "especialidades": [],
+      "tecnologias": [],
+      "modalidad": ""
+    },
+    {
+      "id": "c4f5e94d-2be2-4215-a8ba-c7410e7d78a8",
+      "nombre": "john",
+      "apellido": "fdfdf",
+      "email": "fabianmeraromero@gmail.com",
+      "profesion": "dsdsdsdsd",
+      "experiencia": 3,
+      "especialidades": [],
+      "tecnologias": [],
+      "modalidad": ""
+    },
+    {
+      "id": "f5385a92-f464-4661-9c2c-308a5525439a",
+      "nombre": "sdasdasd",
+      "apellido": "dsadadad",
+      "email": "fabianmeraromero@gmai.com",
+      "profesion": "dsdsdd",
+      "experiencia": 4,
+      "especialidades": [
+        "frontend"
+      ],
+      "tecnologias": [
+        "javascript"
+      ],
+      "modalidad": ""
+    },
+    {
+      "id": "41d02538-3707-4bc7-aa04-63ed9064fea4",
+      "nombre": "d",
+      "apellido": "fd",
+      "email": "df",
+      "profesion": "d",
+      "experiencia": 44,
+      "especialidades": [],
+      "tecnologias": [],
+      "modalidad": ""
+    },
+    {
+      "id": "0a59a819-4ce8-47d4-922f-600dfc3b864f",
+      "nombre": "g",
+      "apellido": "g",
+      "email": "g",
+      "profesion": "g",
+      "experiencia": 5,
+      "especialidades": [],
+      "tecnologias": [],
+      "modalidad": ""
+    }
+  ]
+}
